@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is James. This is my source code. Enjoy!
+I'm James. This is my source code. Enjoy!
 
 ----
 </br>
