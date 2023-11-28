@@ -1,11 +1,4 @@
-# Roman Jades
-
-### Hi there 👋
-
-I'm James. This is my source code. Enjoy!
-
-----
-</br>
+# jint64
 
 [<img src="images/github-mark-white.svg" height="15px">](https://github.com/jamessrc/as3-mp3-spectrum) &nbsp; 
 [as3-mp3-spectrum](https://github.com/jamessrc/as3-mp3-spectrum)
