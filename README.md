@@ -10,6 +10,8 @@
 [<img src="images/mp3-equalizer-player.gif" height="50px">](https://github.com/jnt64/jnt64-audio)
 <br><br><br>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jnt64/langs)](https://githubtrends.io)
+
 <!--
 ---
 #### Video Player / Multi Synchonization / C++, Electron, Chromium NACL/Pepper
