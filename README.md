@@ -1,6 +1,3 @@
-# James Doran is @romanjades
-<br>
-
 ```
     ________  ________  _____ ______   ________  ________              ___  ________  ________  _______   ________      
    |\   __  \|\   __  \|\   _ \  _   \|\   __  \|\   ___  \           |\  \|\   __  \|\   ___ \|\  ___ \ |\   ____\     
@@ -11,14 +8,16 @@
        \|__|\|__|\|_______|\|__|     \|__|\|__|\|__|\|__| \|__|     \|________|\|__|\|__|\|_______|\|_______|\_________\
                                                                                                             \|_________|
 ```
+### James Doran
+@romanjades
 
 ---
 #### Audio Player / Spectrum Visualizer / Oldschool Flash
 ---
-[<img src="images/github-mark-white.svg" height="15px">](https://github.com/jnt64/jnt64-audio) &nbsp; [flash-audio](https://github.com/jnt64/jnt64-audio)
+[<img src="images/github-mark-white.svg" height="15px">](https://github.com/romanjades/flash-audio) &nbsp; [flash-audio](https://github.com/romanjades/flash-audio)
 <br>
 <br>
-[<img src="images/mp3-equalizer-player.gif" height="50px">](https://github.com/jnt64/jnt64-audio)
+[<img src="images/mp3-equalizer-player.gif" height="50px">](https://github.com/romanjades/flash-audio)
 <br><br><br>
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jnt64/langs)](https://githubtrends.io) -->
