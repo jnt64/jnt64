@@ -1,10 +1,21 @@
-# jnt64
+# @romanjades
 <br>
+
+```
+    ________  ________  _____ ______   ________  ________              ___  ________  ________  _______   ________      
+   |\   __  \|\   __  \|\   _ \  _   \|\   __  \|\   ___  \           |\  \|\   __  \|\   ___ \|\  ___ \ |\   ____\     
+   \ \  \|\  \ \  \|\  \ \  \\\__\ \  \ \  \|\  \ \  \\ \  \          \ \  \ \  \|\  \ \  \_|\ \ \   __/|\ \  \___|_    
+    \ \   _  _\ \  \\\  \ \  \\|__| \  \ \   __  \ \  \\ \  \       __ \ \  \ \   __  \ \  \ \\ \ \  \_|/_\ \_____  \   
+     \ \  \\  \\ \  \\\  \ \  \    \ \  \ \  \ \  \ \  \\ \  \     |\  \\_\  \ \  \ \  \ \  \_\\ \ \  \_|\ \|____|\  \  
+      \ \__\\ _\\ \_______\ \__\    \ \__\ \__\ \__\ \__\\ \__\    \ \________\ \__\ \__\ \_______\ \_______\____\_\  \ 
+       \|__|\|__|\|_______|\|__|     \|__|\|__|\|__|\|__| \|__|     \|________|\|__|\|__|\|_______|\|_______|\_________\
+                                                                                                            \|_________|
+```
 
 ---
 #### Audio Player / Spectrum Visualizer / Oldschool Flash
 ---
-[<img src="images/github-mark-white.svg" height="15px">](https://github.com/jnt64/jnt64-audio) &nbsp; [jnt64-audio](https://github.com/jnt64/jnt64-audio)
+[<img src="images/github-mark-white.svg" height="15px">](https://github.com/jnt64/jnt64-audio) &nbsp; [flash-audio](https://github.com/jnt64/jnt64-audio)
 <br>
 <br>
 [<img src="images/mp3-equalizer-player.gif" height="50px">](https://github.com/jnt64/jnt64-audio)
