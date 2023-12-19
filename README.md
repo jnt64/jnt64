@@ -1,7 +1,9 @@
-### James Doran
 @jnt64
+# James Doran
 
-<br><br>
+
+<br>
+
 ---
 #### Audio Player / Spectrum Visualizer / Oldschool Flash
 ---
